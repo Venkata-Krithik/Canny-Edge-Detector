@@ -22,7 +22,7 @@
 #define COLS 2704
 #define ROWS 1520
 #define SIZE COLS*ROWS
-#define VIDEONAME "Engineering"
+#define VIDEONAME "Engineering"        //These credentials vary depending on the location of the images
 #define IMG_IN    "video/" VIDEONAME "%03d.pgm"
 #define IMG_OUT   VIDEONAME "%03d_edges.pgm"
 #define IMG_NUM   30 /* number of images processed (1 or more) */
